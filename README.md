@@ -1,6 +1,6 @@
 ## EnergyAustralia Coding Test
 
-This app renders a list of music festival data, retrieved via an API call. The task involves transforming given API data into a specific format and sorting alphabetically.
+This app renders a list of music festival data, retrieved via API. The task involves transforming API response data into a specific format and sorting alphabetically.
 
 http://eacodingtest.digital.energyaustralia.com.au/
 
