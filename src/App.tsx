@@ -1,10 +1,10 @@
-import React from "react";
-import "./App.css";
+import React from 'react';
+import './App.css';
+import { MusicFestivals } from './components/music-festivals/MusicFestivals';
 
-const App = () => (
+export const App = () => (
   <main className="App">
     <h1>EnergyAustralia Coding Test</h1>
+    <MusicFestivals />
   </main>
 );
-
-export default App;
